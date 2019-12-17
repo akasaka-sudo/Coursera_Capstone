@@ -1,0 +1,13 @@
+Introduction
+Bangkok and Kuala Lumpur are major cities in Thailand and Malaysia and have important roles in Southeast Asia.
+I would like to confirm the differences in the characteristics of not only residents, but also those of business and tourism.
+
+Purpose
+The goal is to use Foursquare data for clustering and segmentation. 
+From the results obtained, common points and differences between the two cities are found, 
+and the characteristics of each district are confirmed. 
+They hope to be able to find it from data such as residential areas and tourist spots.
+
+Data
+The data used in this study is from Wikipedia. 
+We would like to compare the characteristics and differences of each area using these location information and find useful information as residential areas and tourist spots.
